@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✨ I'm Sr. Software Consultant speacilized in Warehouse Managment Systems and Logistics. 
+- ✨ I'm Sr. Software Consultant specialized in Warehouse Managment Systems and Logistics. 
 - 🌱 I’m currently enrolled in a Full Stack Developer Bootcamp At Georgia Tech.
 - 📫 You can reach me at: Hatech88@gmail.com
 - Let's connect on LinkedIn: http://www.linkedin.com/in/harithalshareef
