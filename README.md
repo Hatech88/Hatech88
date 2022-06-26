@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently enrolled in a Full Stack Developer Bootcamp At Georgia Tech.
+- 📫 You can reach me at: Hatech88@gmail.com
+- Let's connect on LinkedIn: http://www.linkedin.com/in/harithalshareef
 
+Happy Coding! 😄
 <!--
 **Hatech88/Hatech88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
